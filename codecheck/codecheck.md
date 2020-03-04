@@ -1,6 +1,6 @@
 ### WHO checked WHAT, and HOW?
 
-Bianca Zlavog: Forked the target group's repository, 
+Bianca Zlavog: Forked the target group's repository, checked Q3 and Q4 by exploring the repository's README and LICENSE files, and browsing the data and code file formats used in performing the analysis.
 
 Iacopo Garizio:
 
@@ -18,6 +18,10 @@ There were no differences between the simulated plots by the target group and th
 
 ### Q3. Are used pieces of software and data properly CITED and with suitable LICENSES?
 
+Yes, the authors provide a LICENSE file describing the use terms of the software and data included in the repository. They also clearly describe all software versions and dependencies, and reference the original paper and source of the code and data used.
+
 ### Q4. Are open formats (text-based) included?
+
+Yes, the entire analysis is performed using open-source file formats, including the analysis in R and the data files stored as CSVs.
 
 ### Q5. Is data and software FAIR?
