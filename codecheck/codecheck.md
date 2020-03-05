@@ -4,7 +4,7 @@ Bianca Zlavog: Forked the target group's repository, checked Q3 and Q4 by explor
 
 Iacopo Garizio:
 
-James Lee:
+James Lee: Checked Q5 by exploring the github repo posted by the replication and the original author.  Looked into the filepaths included in the documentation and found that column names are easy to identify, and that the file names and code is properly named.
 
 Advika Battini: Checked Q1 and Q2 by re-running the workflow based on documentation provided to generate the word document.
 
@@ -25,3 +25,5 @@ Yes, the authors provide a LICENSE file describing the use terms of the software
 Yes, the entire analysis is performed using open-source file formats, including the analysis in R and the data files stored as CSVs.
 
 ### Q5. Is data and software FAIR?
+
+Yes, the data and software is fair as anyone can access the data and run the software by accessing the github link and cloning the repository. All data and code is included within the public github repository in an accessible format such as csv, R with proper descriptive file names and instructions.  
